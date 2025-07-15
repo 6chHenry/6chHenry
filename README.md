@@ -1,16 +1,63 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm HRY Six 👋</h1>
 
-<!--
-**6chHenry/6chHenry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=4AD2FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Student.+Coder.+Thinker.;Machine+Learning+%7C+AI+%7C+Robotics+Enthusiast.;Life+%3D+%5BC%2B%2B%2C+Python%2C+Java%5D+%2B+Coffee" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+- 🎓 CS Student | AI & Robotics Enthusiast  
+- 🚀 Currently diving deep into **LLMs**, **Data Structures**, and **Autonomous Systems**
+- 🛠️ Tinkering with: `PyTorch`, `C++`, `Java`, `LangChain`, `Transformers`
+- 💡 Building side projects that blend **creativity + code**
+- 🌏 Fluent in: `Mandarin`, `English`, and some `Compiler Errors`
+- 🧠 Fun fact: I can beat you at regex golf 🧩
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,py,java,js,ts,react,html,css,mysql,linux,bash,vscode,github,docker,git" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=6chHenry&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=6chHenry&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=6chHenry&theme=tokyo-night&area=true&hide_border=true" />
+</p>
+
+---
+
+## 🎮 Fun Zone
+
+- 🎧 Currently vibing to: `lofi + synthwave + code`
+- 📚 Reading: *You and Your Research* by Hamming
+- 🤖 Favorite GPT Trick: Writing code *faster than I can debug it*
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+</p>
+
+---
+
+## 🧭 Let's Connect
+
+<p align="center">
+  <a href="https://github.com/你的用户名"><img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://your-website.com"><img src="https://img.shields.io/badge/Website-1DA1F2?style=flat-square&logo=About.me&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center"><i>✨ Powered by curiosity, caffeine, and the occasional Segfault ✨</i></p>
