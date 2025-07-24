@@ -8,9 +8,9 @@
 
 ## 🧠 About Me
 
-- 🎓 CS Student | AI & Robotics Enthusiast  
-- 🚀 Currently diving deep into **LLMs**, **Data Structures**, and **Autonomous Systems**
-- 🛠️ Tinkering with: `PyTorch`, `C++`, `Java`, `LangChain`, `Transformers`
+- 🎓 AI Student | AI & Robotics Enthusiast  
+- 🚀 Currently diving deep into **ROBOTICS**.
+- 🛠️ Tinkering with: `PyTorch`, `C++`.
 - 💡 Building side projects that blend **creativity + code**
 - 🌏 Fluent in: `Mandarin`, `English`, and some `Compiler Errors`
 - 🧠 Fun fact: I can beat you at regex golf 🧩
@@ -53,9 +53,9 @@
 ## 🧭 Let's Connect
 
 <p align="center">
-  <a href="https://github.com/你的用户名"><img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://your-website.com"><img src="https://img.shields.io/badge/Website-1DA1F2?style=flat-square&logo=About.me&logoColor=white"/></a>
+  <a href="https://github.com/6chHenry"><img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="mailto:13693406552@153.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://6chHenry.github.io"><img src="https://img.shields.io/badge/Website-1DA1F2?style=flat-square&logo=About.me&logoColor=white"/></a>
 </p>
 
 ---
