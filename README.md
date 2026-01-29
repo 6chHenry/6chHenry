@@ -12,16 +12,7 @@
 - 🚀 Currently diving deep into **ROBOTICS**.
 - 🛠️ Tinkering with: `PyTorch`, `C++`.
 - 💡 Building side projects that blend **creativity + code**
-- 🌏 Fluent in: `Mandarin`, `English`, and some `Compiler Errors`
-- 🧠 Fun fact: I can beat you at regex golf 🧩
-
----
-
-## 🛠 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,py,java,js,ts,react,html,css,mysql,linux,bash,vscode,github,docker,git" />
-</p>
+- 🌏 Fluent in: `Mandarin`, `English`
 
 ---
 
@@ -40,10 +31,10 @@
 
 ## 🎮 Fun Zone
 
-- 🎧 Currently vibing to: `lofi + synthwave + code`
-- 📚 Reading: *You and Your Research* by Hamming
-- 🤖 Favorite GPT Trick: Writing code *faster than I can debug it*
-
+- 🎧 Currently vibing to
+- 📚 Reading
+- 🤖
+- To be continued...
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 </p>
